@@ -1,4 +1,4 @@
-[![OpenEverest logo](/logo/everest-black-full-color.png)](https://openeverest.io/)
+[![OpenEverest logo](/logo/logo-horizontal-full-color-white-min.png)](https://openeverest.io/)
 
 [![GitHub License](https://img.shields.io/github/license/percona/everest)][license]
 [![Documentation][documentation-badge]][documentation]
