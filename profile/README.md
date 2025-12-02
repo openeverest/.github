@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
   <img src="https://github.com/openeverest/.github/blob/main/logo/logo-horizontal-full-color-white-min.png" alt="OpenEverest Logo" width="300"/>
 </p>
 
