@@ -35,8 +35,8 @@ Meetings are held bi-weekly and are designed to allow community members to propo
 
 | Timezone friendly for | Time (UTC) | Local Example Time | Join link |
 | :--- | :--- | :--- | :--- |
-| **Western Hemisphere** | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJpNWc3a2tnNHBnODdzcmxtc3RwbnA3c3RfMjAyNjAxMTRUMTYwMDAwWiBzcEBzb2xhbmljYS5pbw&tmsrc=sp%40solanica.io&scp=ALL) |
-| **Eastern Hemisphere** | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBtaWw2cjhoc3VqMjd2ZnI2aDc4dWU3aWdfMjAyNjAxMjhUMDgwMDAwWiBzcEBzb2xhbmljYS5pbw&tmsrc=sp%40solanica.io&scp=ALL)|
+| **Western Hemisphere** | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJpNWc3a2tnNHBnODdzcmxtc3RwbnA3c3RfMjAyNjAxMTRUMTYwMDAwWiBjXzY5M2MxM2FmZDI2YmZhZmM3ZTZlNWYxM2I1ZDMwNTA2NmIyZmI4MGUzYmFlMjEwNDYwYmQwMWFlMzc0OTBlNjdAZw&tmsrc=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67%40group.calendar.google.com&scp=ALL) |
+| **Eastern Hemisphere** | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBtaWw2cjhoc3VqMjd2ZnI2aDc4dWU3aWdfMjAyNjAxMjhUMDgwMDAwWiBjXzY5M2MxM2FmZDI2YmZhZmM3ZTZlNWYxM2I1ZDMwNTA2NmIyZmI4MGUzYmFlMjEwNDYwYmQwMWFlMzc0OTBlNjdAZw&tmsrc=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67%40group.calendar.google.com&scp=ALL)|
 
 [Community Meeting Notes](https://docs.google.com/document/d/1-fSDKJ9_GhRtEEMqWtzERjuDXxsuuMCK5CGjpQjQhwQ/edit?tab=t.0)
 
