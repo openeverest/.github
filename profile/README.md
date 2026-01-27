@@ -3,7 +3,7 @@
 </p>
 
 
-[![GitHub License](https://img.shields.io/github/license/percona/everest)][license]
+[![GitHub License](https://img.shields.io/github/license/openeverest/openeverest)][license]
 [![Documentation][documentation-badge]][documentation]
 
 
@@ -13,7 +13,7 @@ Welcome to **OpenEverest**, an open source database platform, for automated data
 
 ## Getting in touch
 
-- [Github Discussions](https://github.com/percona/everest/discussions)
+- [Github Discussions](https://github.com/openeverest/openeverest/discussions)
 - [Slack](https://cloud-native.slack.com/archives/C09RRGZL2UX) (join the [CNCF Slack Workspace](https://communityinviter.com/apps/cloud-native/cncf))
 - [Linkedin](https://linkedin.com/company/openeverest)
 
@@ -35,16 +35,16 @@ Meetings are held bi-weekly and are designed to allow community members to propo
 
 | Timezone friendly for | Time (UTC) | Local Example Time | Join link |
 | :--- | :--- | :--- | :--- |
-| **Western Hemisphere** | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MDJpNWc3a2tnNHBnODdzcmxtc3RwbnA3c3RfMjAyNjAxMTRUMTYwMDAwWiBjXzY5M2MxM2FmZDI2YmZhZmM3ZTZlNWYxM2I1ZDMwNTA2NmIyZmI4MGUzYmFlMjEwNDYwYmQwMWFlMzc0OTBlNjdAZw&tmsrc=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67%40group.calendar.google.com&scp=ALL) |
-| **Eastern Hemisphere** | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | [Join](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NHBtaWw2cjhoc3VqMjd2ZnI2aDc4dWU3aWdfMjAyNjAxMjhUMDgwMDAwWiBjXzY5M2MxM2FmZDI2YmZhZmM3ZTZlNWYxM2I1ZDMwNTA2NmIyZmI4MGUzYmFlMjEwNDYwYmQwMWFlMzc0OTBlNjdAZw&tmsrc=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67%40group.calendar.google.com&scp=ALL)|
+| **Western Hemisphere** | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | [Join](https://calendar.google.com/calendar/u/0/embed?src=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67@group.calendar.google.com) |
+| **Eastern Hemisphere** | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | [Join](https://calendar.google.com/calendar/u/0/embed?src=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67@group.calendar.google.com)|
 
 [Community Meeting Notes](https://docs.google.com/document/d/1-fSDKJ9_GhRtEEMqWtzERjuDXxsuuMCK5CGjpQjQhwQ/edit?tab=t.0)
 
 ## License
 
-OpenEverest is licensed under the [Apache License, Version 2.0](https://github.com/percona/everest/blob/main/LICENSE).
+OpenEverest is licensed under the [Apache License, Version 2.0](https://github.com/openeverest/openeverest/blob/main/LICENSE).
 
 
 [documentation]: https://openeverest.io/docs
-[license]: https://github.com/percona/everest/blob/main/LICENSE
+[license]: https://github.com/openeverest/openeverest/blob/main/LICENSE
 [documentation-badge]: https://img.shields.io/badge/Documentation-white
