@@ -5,6 +5,7 @@
 
 [![GitHub License](https://img.shields.io/github/license/openeverest/openeverest)][license]
 [![Documentation][documentation-badge]][documentation]
+[![CNCF Landscape](https://img.shields.io/badge/CNCF%20Landscape-5699C6)](https://landscape.cncf.io/?item=app-definition-and-development--database--openeverest)
 
 
 # Simplify database management. Anywhere.
