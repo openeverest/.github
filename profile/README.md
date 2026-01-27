@@ -14,6 +14,7 @@ Welcome to **OpenEverest**, an open source database platform, for automated data
 
 ## Getting in touch
 
+- [Website](https://openeverest.io)
 - [Github Discussions](https://github.com/openeverest/openeverest/discussions)
 - [Slack](https://cloud-native.slack.com/archives/C09RRGZL2UX) (join the [CNCF Slack Workspace](https://communityinviter.com/apps/cloud-native/cncf))
 - [Linkedin](https://linkedin.com/company/openeverest)
