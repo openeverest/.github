@@ -33,12 +33,12 @@ You can contribute to OpenEverest in many ways:
 We host public bi-weekly meetings for OpenEverest community. First time participants, new contributors, or anyone interested in OpenEverest are welcome! 
 This forum allows community members to propose agenda items of any sort, including but not limited to releases, roadmap, any contributor PRs or issues on which they are working.
 
-Meetings are held bi-weekly and are designed to allow community members to propose agenda items of any sort. To accommodate participants across various timezones, our meeting time rotates:
+Meetings are held bi-weekly and rotate to accommodate participants across various timezones. Community members are encouraged to propose agenda items of any sort.
 
 | Timezone friendly for | Time (UTC) | Local Example Time | Join link |
 | :--- | :--- | :--- | :--- |
-| **Western Hemisphere** | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | [Join](https://calendar.google.com/calendar/u/0/embed?src=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67@group.calendar.google.com) |
-| **Eastern Hemisphere** | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | [Join](https://calendar.google.com/calendar/u/0/embed?src=c_693c13afd26bfafc7e6e5f13b5d305066b2fb80e3bae210460bd01ae37490e67@group.calendar.google.com)|
+| Western Hemisphere | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | **[Join](https://zoom-lfx.platform.linuxfoundation.org/meetings/openeverest?view=month)** |
+| Eastern Hemisphere | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | **[Join](https://zoom-lfx.platform.linuxfoundation.org/meetings/openeverest?view=month)** |
 
 [Community Meeting Notes](https://docs.google.com/document/d/1-fSDKJ9_GhRtEEMqWtzERjuDXxsuuMCK5CGjpQjQhwQ/edit?tab=t.0)
 
