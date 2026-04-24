@@ -33,7 +33,7 @@ You can contribute to OpenEverest in many ways:
 We host public bi-weekly meetings for OpenEverest community. First time participants, new contributors, or anyone interested in OpenEverest are welcome! 
 This forum allows community members to propose agenda items of any sort, including but not limited to releases, roadmap, any contributor PRs or issues on which they are working.
 
-Meetings are held bi-weekly and rotate to accommodate participants across various timezones. Community members are encouraged to propose agenda items of any sort.
+Meetings are held bi-weekly on **Wednesdays** and rotate to accommodate participants across various timezones. Community members are encouraged to propose agenda items of any sort.
 
 | Timezone friendly for | Time (UTC) | Local Example Time | Join link |
 | :--- | :--- | :--- | :--- |
