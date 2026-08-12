@@ -40,7 +40,7 @@ Meetings are held bi-weekly on **Wednesdays** and rotate to accommodate particip
 | Western Hemisphere | **4:00 PM UTC** | 8:00 AM PST (e.g., California) | **[Join](https://zoom-lfx.platform.linuxfoundation.org/meetings/openeverest?view=month)** |
 | Eastern Hemisphere | **8:00 AM UTC** | 5:00 PM JST (e.g., Japan/Korea) | **[Join](https://zoom-lfx.platform.linuxfoundation.org/meetings/openeverest?view=month)** |
 
-[Community Meeting Notes](https://docs.google.com/document/d/1-fSDKJ9_GhRtEEMqWtzERjuDXxsuuMCK5CGjpQjQhwQ/edit?tab=t.0)
+[Community Meeting Notes](https://notes.cncf.io/kSrQte6_S4GRVAiZguntww)
 
 ## License
 
